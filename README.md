@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @glhewett
-- 👀 I’m interested in vim, opencv, c++, cuda
-- 🌱 I’m currently learning vimscript, windows
-- 💞️ I’m looking to collaborate on anything.
+- 👀 I’m interested in vim, opencv, c++
+- 🌱 I’m currently learning vimscript
+- 💞️ I’m looking to collaborate on anything (this changes daily)
 - 📫 How to reach me on twitter, webex, or email
 
 <!---
